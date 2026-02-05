@@ -33,7 +33,6 @@ Language-Translator/
 ├── app.py                  # Streamlit application
 ├── requirements.txt        # Project dependencies
 ├── README.md               # Project documentation
-└── .env                    # Environment variables (optional)
 ```
 
 ---
